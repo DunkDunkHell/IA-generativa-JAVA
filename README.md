@@ -1,4 +1,4 @@
-# Projeto Ia generativa com Java
+# Projeto IA generativa com Java
 O projeto foi desenvolvido utilizando o NoteboolLM com o foco em aprendizado da linguagem Java com o auxilio de Inteligência Artificial
 ---
 ## Objetivo
