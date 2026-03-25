@@ -15,13 +15,11 @@ https://notebooklm.google.com/notebook/d985c9f5-c7c6-437e-86ac-616f4a1e5a3a  -> 
 - "Qual a diferença prática entre JDK, JRE e JVM?"
  "Em quais áreas o Java pode atuar?"
 - "O que é Java?"
-
 --
 ## Dificuldades
 - Reformulação de prompts
 - A grande parte do conteúdo encontrado era pago, limitando aprofundamento
 - Respostas superficiais devido a limitação na busca de conteúdo
-
 --
 ## Contexto
 Java é uma linguagem orientada a objetos. Com sua criação no ano de 1995, amplamente usada em aplicações web, mobile e coorporativas
@@ -53,13 +51,11 @@ Java é uma linguagem orientada a objetos. Com sua criação no ano de 1995, amp
 - Áreas de atuação
 - Uso de IA para estudo
 - Engenharia de Prompts
-
 --
  # Prompts reutilizavéis 
  - "No mercaod atual, vale a pena Java?"
  - "Me dê exemplos de aplicativos que foram programados em Java"
  - "Java é o futuro?"
-
 --
 
 ## Link Notebooklm
